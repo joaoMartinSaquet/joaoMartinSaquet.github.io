@@ -2,10 +2,8 @@
 layout: home
 title: "Joao Martin-Saquet"
 ---
-
-# 👋 Welcome to My Website
-
-Hi! I’m Jooo Martin-Saquet.  
+# Who am I ? 
+Hi! I’m Joao Martin-Saquet.  
 I’m a PhD student in **Computer Science & Telecommunications** at Université Toulouse 1 Capitole.  
 My research focuses on **adaptive interfaces, multimodal interaction, ergonomics, gamification, and wearable technology**.  
 
