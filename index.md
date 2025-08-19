@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Joao Martin-Saquet"
 ---
 # Who am I ? 
